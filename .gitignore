@@ -21,3 +21,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 maven/sort/.idea/
+gradle/Sort/.idea/
+gradle/Sort/.gradle/
+gradle/Sort/build/
+maven/Sort/target/
